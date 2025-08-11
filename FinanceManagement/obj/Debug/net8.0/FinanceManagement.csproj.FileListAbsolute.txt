@@ -1,0 +1,29 @@
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\bin\Debug\net8.0\FinanceManagement.exe
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\bin\Debug\net8.0\FinanceManagement.deps.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\bin\Debug\net8.0\FinanceManagement.runtimeconfig.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\bin\Debug\net8.0\FinanceManagement.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\bin\Debug\net8.0\FinanceManagement.pdb
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\obj\Debug\net8.0\FinanceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\obj\Debug\net8.0\FinanceManagement.AssemblyInfoInputs.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\obj\Debug\net8.0\FinanceManagement.AssemblyInfo.cs
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\obj\Debug\net8.0\FinanceManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\obj\Debug\net8.0\FinanceManagement.sourcelink.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\obj\Debug\net8.0\FinanceManagement.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\obj\Debug\net8.0\refint\FinanceManagement.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\obj\Debug\net8.0\FinanceManagement.pdb
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\obj\Debug\net8.0\FinanceManagement.genruntimeconfig.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\financemanagement\obj\Debug\net8.0\ref\FinanceManagement.dll
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\bin\Debug\net8.0\FinanceManagement.exe
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\bin\Debug\net8.0\FinanceManagement.deps.json
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\bin\Debug\net8.0\FinanceManagement.runtimeconfig.json
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\bin\Debug\net8.0\FinanceManagement.dll
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\bin\Debug\net8.0\FinanceManagement.pdb
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\obj\Debug\net8.0\FinanceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\obj\Debug\net8.0\FinanceManagement.AssemblyInfoInputs.cache
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\obj\Debug\net8.0\FinanceManagement.AssemblyInfo.cs
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\obj\Debug\net8.0\FinanceManagement.csproj.CoreCompileInputs.cache
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\obj\Debug\net8.0\FinanceManagement.dll
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\obj\Debug\net8.0\refint\FinanceManagement.dll
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\obj\Debug\net8.0\FinanceManagement.pdb
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\obj\Debug\net8.0\FinanceManagement.genruntimeconfig.cache
+C:\Users\kelly\OneDrive\Documents\Temp\FinanceManagement\obj\Debug\net8.0\ref\FinanceManagement.dll
