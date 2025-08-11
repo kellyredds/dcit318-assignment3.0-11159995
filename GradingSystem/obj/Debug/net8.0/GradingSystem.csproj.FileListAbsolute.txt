@@ -1,0 +1,29 @@
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\bin\Debug\net8.0\GradingSystem.exe
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\bin\Debug\net8.0\GradingSystem.deps.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\bin\Debug\net8.0\GradingSystem.runtimeconfig.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\bin\Debug\net8.0\GradingSystem.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\bin\Debug\net8.0\GradingSystem.pdb
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\obj\Debug\net8.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\obj\Debug\net8.0\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\obj\Debug\net8.0\GradingSystem.AssemblyInfo.cs
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\obj\Debug\net8.0\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\obj\Debug\net8.0\GradingSystem.sourcelink.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\obj\Debug\net8.0\GradingSystem.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\obj\Debug\net8.0\refint\GradingSystem.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\obj\Debug\net8.0\GradingSystem.pdb
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\obj\Debug\net8.0\GradingSystem.genruntimeconfig.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\gradingsystem\obj\Debug\net8.0\ref\GradingSystem.dll
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\bin\Debug\net8.0\GradingSystem.exe
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\bin\Debug\net8.0\GradingSystem.deps.json
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\bin\Debug\net8.0\GradingSystem.runtimeconfig.json
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\bin\Debug\net8.0\GradingSystem.dll
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\bin\Debug\net8.0\GradingSystem.pdb
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\obj\Debug\net8.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfo.cs
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\obj\Debug\net8.0\GradingSystem.dll
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\obj\Debug\net8.0\refint\GradingSystem.dll
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\obj\Debug\net8.0\GradingSystem.pdb
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\obj\Debug\net8.0\GradingSystem.genruntimeconfig.cache
+C:\Users\kelly\OneDrive\Documents\Temp\GradingSystem\obj\Debug\net8.0\ref\GradingSystem.dll

@@ -1,0 +1,5 @@
+Alice Johnson (ID: 101): Score = 85, Grade = A
+Bob Smith (ID: 102): Score = 72, Grade = B
+Charlie Brown (ID: 103): Score = 91, Grade = A
+Dana White (ID: 104): Score = 64, Grade = C
+Eve Black (ID: 105): Score = 53, Grade = D

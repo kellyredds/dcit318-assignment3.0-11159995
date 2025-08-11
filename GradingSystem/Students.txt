@@ -1,0 +1,5 @@
+101, Alice Johnson, 85
+102, Bob Smith, 72
+103, Charlie Brown, 91
+104, Dana White, 64
+105, Eve Black, 53
