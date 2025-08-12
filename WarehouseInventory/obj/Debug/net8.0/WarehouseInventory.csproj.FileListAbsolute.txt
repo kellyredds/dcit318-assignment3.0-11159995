@@ -1,0 +1,29 @@
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\bin\Debug\net8.0\WarehouseInventory.exe
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\bin\Debug\net8.0\WarehouseInventory.deps.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\bin\Debug\net8.0\WarehouseInventory.runtimeconfig.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\bin\Debug\net8.0\WarehouseInventory.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\bin\Debug\net8.0\WarehouseInventory.pdb
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\obj\Debug\net8.0\WarehouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\obj\Debug\net8.0\WarehouseInventory.AssemblyInfoInputs.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\obj\Debug\net8.0\WarehouseInventory.AssemblyInfo.cs
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\obj\Debug\net8.0\WarehouseInventory.csproj.CoreCompileInputs.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\obj\Debug\net8.0\WarehouseInventory.sourcelink.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\obj\Debug\net8.0\WarehouseInventory.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\obj\Debug\net8.0\refint\WarehouseInventory.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\obj\Debug\net8.0\WarehouseInventory.pdb
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\obj\Debug\net8.0\WarehouseInventory.genruntimeconfig.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\warehouseinventory\obj\Debug\net8.0\ref\WarehouseInventory.dll
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\bin\Debug\net8.0\WarehouseInventory.exe
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\bin\Debug\net8.0\WarehouseInventory.deps.json
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\bin\Debug\net8.0\WarehouseInventory.runtimeconfig.json
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\bin\Debug\net8.0\WarehouseInventory.dll
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\bin\Debug\net8.0\WarehouseInventory.pdb
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.AssemblyInfoInputs.cache
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.AssemblyInfo.cs
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.csproj.CoreCompileInputs.cache
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.dll
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\obj\Debug\net8.0\refint\WarehouseInventory.dll
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.pdb
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.genruntimeconfig.cache
+C:\Users\kelly\OneDrive\Documents\Temp\WarehouseInventory\obj\Debug\net8.0\ref\WarehouseInventory.dll
