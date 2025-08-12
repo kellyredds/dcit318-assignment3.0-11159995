@@ -1,0 +1,29 @@
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\obj\Debug\net8.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\obj\Debug\net8.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\obj\Debug\net8.0\InventorySystem.AssemblyInfo.cs
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\obj\Debug\net8.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\obj\Debug\net8.0\InventorySystem.sourcelink.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\bin\Debug\net8.0\InventorySystem.exe
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\bin\Debug\net8.0\InventorySystem.deps.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\bin\Debug\net8.0\InventorySystem.runtimeconfig.json
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\bin\Debug\net8.0\InventorySystem.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\bin\Debug\net8.0\InventorySystem.pdb
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\obj\Debug\net8.0\InventorySystem.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\obj\Debug\net8.0\refint\InventorySystem.dll
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\obj\Debug\net8.0\InventorySystem.pdb
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\obj\Debug\net8.0\InventorySystem.genruntimeconfig.cache
+C:\Users\User\Github Repo\dcit318-assignment3-11352452\inventorysystem\obj\Debug\net8.0\ref\InventorySystem.dll
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\bin\Debug\net8.0\InventorySystem.exe
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\bin\Debug\net8.0\InventorySystem.deps.json
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\bin\Debug\net8.0\InventorySystem.runtimeconfig.json
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\bin\Debug\net8.0\InventorySystem.dll
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\bin\Debug\net8.0\InventorySystem.pdb
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\obj\Debug\net8.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfo.cs
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\obj\Debug\net8.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\obj\Debug\net8.0\InventorySystem.dll
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\obj\Debug\net8.0\refint\InventorySystem.dll
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\obj\Debug\net8.0\InventorySystem.pdb
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\obj\Debug\net8.0\InventorySystem.genruntimeconfig.cache
+C:\Users\kelly\OneDrive\Documents\Temp2\InventorySystem\obj\Debug\net8.0\ref\InventorySystem.dll
